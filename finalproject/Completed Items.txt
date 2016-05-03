@@ -1,0 +1,9 @@
+Hosted on heroku - intense-bastion-37686.herokuapp.com
+Custom Domain Name - used FreeDNS to to get leefred1.ignorelist.com
+
+4 Complete HTML pages - Have a home page, about me page, and 2 other pages about my hobbies
+Custom CSS or Boostrap - Made a Navigation bar, custom fonts, and background pictures for design.
+Use at least two custom images - 3 pictures that I have taken are on the home page on the carousel.
+Javascript component - Carousel on home page
+Non-Heroku 3rd party widget - social media buttons on top right
+3rd party font icons - phone and email font icons on home page
